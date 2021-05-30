@@ -239,12 +239,12 @@ footer {
   line-height: 35px;
 }
 
-.footer-right > ul > li:nth-child(2) > ul {
+.footer-right > ul > li > ul {
   padding-left: 40px;
   text-align-last: left;
 }
 
-.footer-right > ul > li:nth-child(2) > ul > li {
+.footer-right > ul > li > ul > li {
   font-size: 15px;
   margin-top: 20px;
 }
