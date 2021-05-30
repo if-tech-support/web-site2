@@ -9,7 +9,7 @@ starter : ハンズオン教材の雛形(Zipファイルをインストールし
 ### 確認URL
 | ブランチ名 | URL |
 |----------------|--------|
-| main | github pages の URL |
+| main |  https://if-tech-support.github.io/web-site2/ |
 
 ### Zip インストール
 | ブランチ名 | インストール方法 |
