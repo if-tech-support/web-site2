@@ -12,9 +12,9 @@ starter : ハンズオン教材の雛形(Zipファイルをインストールし
 | main |  https://if-tech-support.github.io/web-site2/ |
 
 ### Zip インストール
-| ブランチ名 | インストール方法 |
+| ブランチ名 | インストール方法確認URL |
 |----------------|--------|
-| starter | アクションボタンをクリックして、インストール |
+| starter | https://github.com/if-tech-support/web-site2/tree/starter |
 
 ## ファイル構造
 ```bash
