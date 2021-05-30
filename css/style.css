@@ -213,7 +213,8 @@ nav a:hover {
 footer {
   padding: 100px 50px 50px;
 
-  color: #fff;
+  color: #000000;
+  font-weight: bold;
   background: #31c5b9;
 }
 
@@ -224,6 +225,7 @@ footer {
 }
 
 .footer-left h1 {
+  font-weight: bold;
   font-size: 35px;
 }
 
